@@ -1,0 +1,9 @@
+﻿l_english:
+ tech_aquaponics: "Aquaponics Farming"
+ tech_aquaponics_desc: "Aquaponics is the fusion of onshore aquaculture and hydroponic farming where the water from aquaculture is also used as the media in which plants are grown hydroponically."
+ tech_aquaponics_2: "Advanced Aquaponics Farming"
+ tech_aquaponics_2_desc: "Genetically-engineered crops and aquatic animals have been tailored into an almost symbiotic relationship that drastically reduces the amount of processing to create a closed water loop.  This requires more raw energy input, but the increased yields dramatically."
+ building_aquaponics_farm: "Aquaponics Farms"
+ building_aquaponics_farm_desc: "Aquaponics Farms produce nutrient-rich fish and vegetable matter tailored for consumption by local Pops."
+ building_aquaponics_farm_2: "Advanced Aquaponics Farms"
+ building_aquaponics_farm_2_desc: "Advanced aquaponics farms are made possible by sophisticated genetic engineering techniques. Hydroponic crops and aquaculture yield more edible biomass with both a higher caloric density and improved flavor profiles designed to appeal to local Pops."
